@@ -1,0 +1,6 @@
+https:/localhost/Wordpress   #wordpress login website
+
+https:/localhost/test/File_name    #open a website using the file address
+
+
+
